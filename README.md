@@ -50,6 +50,7 @@ We plan to insert a new card in the home describing the device status and 3D mod
 - [Build the device](#building_the_device)
 - [How to use](#usage)
 - [Authors](#authors)
+- [Case Printing](#printing)
 - [License](#license)
 
 ## 👨🏻‍💻 Installation
