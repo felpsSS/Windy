@@ -3,7 +3,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-00979D?style=flat-square&logo=espressif&logoColor=white)
-![License](https://img.shields.io/github/license/alexzilligmm/hci_air_quality?style=flat-square)
+![License](https://img.shields.io/github/license/alexzilligmm/windy?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
 
 ---
