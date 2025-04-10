@@ -46,12 +46,12 @@ We plan to insert a new card in the home describing the device status and 3D mod
 
 ## 📋 Table of Contents
 
-- [Installation](#installation)
-- [Build the device](#building_the_device)
-- [How to use](#usage)
+- [Installation](#👨🏻‍💻_Installation)
+- [Build the device](#👷🏻_Building_the_device)
+- [Components](#Components_and_Links)
+- [Case Printing](#🖨️_Case_Printing)
+- [How to use](#🚀_How_to_use_it)
 - [Authors](#authors)
-- [Case Printing](#printing)
-- [License](#license)
 
 ## 👨🏻‍💻 Installation
 
