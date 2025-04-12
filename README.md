@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/github/license/alexzilligmm/windy?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
 
+<p align="center">
+  <img src="media/FinalProduct.png" alt="Windy Device Preview" width="400"/>
+</p>
+
 ---
 
 ## 📝 Description
