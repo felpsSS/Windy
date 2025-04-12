@@ -125,6 +125,6 @@ Once the app is installed and the device ready, switch the device on using the s
 ## Authors
 Barreto Diego, Palmieri Simone, Piarulli Lorenzo, Marincione Davide, Zirilli Alessandro
 
-designed by Daniel Maroni
+👨🏻‍🎨 designed by Daniel Maroni
 
-Special thanks to Prof. Emanuele Panizzi for his helpful advice, especially in defining the future works.
+Special thanks to **Prof. Emanuele Panizzi** for his helpful advice.
