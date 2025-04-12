@@ -81,7 +81,7 @@ We plan to insert a new card in the home describing the device status and 3D mod
 
 ## 👷🏻 Building the device
    
-To build the prototype, we welded some commercial components onto a custom PCB board that we designed to enhance ease of assembly and overall elegance. **The PCB project files are included in the PCB folder.** To design the board, we used [KiCad](https://www.kicad.org). A custom 3D-printed shell protects the system, providing durability and aesthetic appeal. **We publish the STL file in the Windy folder.**
+To build the prototype, we welded some commercial components onto a custom PCB board that we designed to enhance ease of assembly and overall elegance. **The PCB project files are included in the PCB folder.** To design the board, we used [KiCad](https://www.kicad.org). A custom 3D-printed shell protects the system, providing durability and aesthetic appeal. **We publish the STL file in the media folder.**
 
 ## Components and Links:
 We provide links to the components we bought for our prototypes.
