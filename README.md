@@ -17,9 +17,12 @@
 This folder contains everything you need to produce your own **Windy**, our smart air quality monitor.  
 The project includes:
 
-- 📱 A cross-platform companion app  
-- ⚙️ The physical device with PCB and case  
-- 📚 Full technical documentation doc pdf 
+📱 A cross-platform companion app 
+
+⚙️ The physical device with PCB and case  
+
+📚 Full technical documentation doc pdf 
+
 
 ```md
 Windy
@@ -32,10 +35,14 @@ Windy
 ```
 
 ### 🔥 Current capabilities 
-- 📐 Measures CO2 and TVOC levels passively when connected to the phone
-- 📊 Measures CO2 and TVOC on demand via the app or the device itself
-- 📉 Provides a detailed history and trend of past measures
-- 💡 Provides tips to improve air quality based on your situation
+📐 Measures CO2 and TVOC levels passively when connected to the phone
+
+📊 Measures CO2 and TVOC on demand via the app or the device itself
+
+📉 Provides a detailed history and trend of past measures
+
+💡 Provides tips to improve air quality based on your situation
+
 
 ### ❤️‍🩹 Known Issues
 
