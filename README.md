@@ -95,12 +95,13 @@ We provide links to the components we bought for our prototypes.
 1. **Microcontroller**: [ESP32](https://it.aliexpress.com/item/1005006979844970.html?src=google&pdp_npi=4%40dis%21EUR%210.33%210.15%21%21%21%21%21%40%2112000042939380583%21ppc%21%21%21&src=google&albch=shopping&acnt=272-267-0231&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=it1005006979844970&ds_e_product_merchant_id=5363656664&ds_e_product_country=IT&ds_e_product_language=it&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20730495829&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gbraid=0AAAAAoukdWOP5DAiLIRPO-Mvu6_XT2csv&gclid=Cj0KCQiAvbm7BhC5ARIsAFjwNHv4pMFK275LoFz30nNj27zO5X7SNDUG5R9QhFqye37QCixKh6vTkW8aAkNxEALw_wcB)
 2. **Sensor**: [CJMCU-811](https://it.aliexpress.com/item/1005006201398375.html?spm=a2g0o.productlist.main.1.788d3a99VtUrea&algo_pvid=f1c9d5a9-a3ff-4240-9df6-4e7f97a3427b&algo_exp_id=f1c9d5a9-a3ff-4240-9df6-4e7f97a3427b-0&pdp_npi=4%40dis%21EUR%219.97%210.97%21%21%2110.14%210.99%21%40211b612817352886608636008e958f%2112000036247474053%21sea%21IT%210%21ABX&curPageLogUid=xZR8mRejGSyN&utparam-url=scene%3Asearch%7Cquery_from%3A)
 3. **Battery**: [Lithium battery](https://it.aliexpress.com/item/1005007865793333.html?spm=a2g0o.productlist.main.5.56b97fc7NibO91&algo_pvid=f16a2610-2b83-417d-89df-a4212a11cf0d&algo_exp_id=f16a2610-2b83-417d-89df-a4212a11cf0d-2&pdp_npi=4%40dis%21EUR%213.10%210.97%21%21%2123.01%217.20%21%40211b65de17352886849121103eba80%2112000042603854421%21sea%21IT%210%21ABX&curPageLogUid=qTqaZXJFHmMW&utparam-url=scene%3Asearch%7Cquery_from%3A)
+4. **PCB**: [website for pcb printing](https://www.pcbway.com)
 
 A detailed schema of assembly is provided in the report, including resistors details.
 
 ## 🖨️ Case Printing
 
-The case has been designed by Daniel Maroni, a talented designer from Rome.
+The case has been designed by **Daniel Maroni**, a talented designer from Rome.
 
 To build the physical enclosure for **Windy**, you can 3D print the case using the provided STL files.
 
@@ -109,6 +110,8 @@ To build the physical enclosure for **Windy**, you can 3D print the case using t
 You can find the STL files in the `media` folder:
 - `case.stl`
 - `case_3d_print.mp4` (video demonstration)
+
+A special thanks to **Alessandro Vitali** for his help and for printing the case.
 
 ## 🚀 How to use it
 Once the app is installed and the device ready, switch the device on using the switch on the side. Hold the main button to put the device on pairing mode. 
