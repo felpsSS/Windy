@@ -111,8 +111,8 @@ You can find the STL files in the `media` folder:
 - `case.stl`
 - `case_3d_print.mp4` (video demonstration)
 
-A special thanks to **Alessandro Vitali** for his help and for printing the case.
-
+A special thanks to **[Alessandro Vitali](https://www.linkedin.com/in/alessandro-cosimo-vitali-b3b243153/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** for his help and for printing the case.
+ 
 ## 🚀 How to use it
 Once the app is installed and the device ready, switch the device on using the switch on the side. Hold the main button to put the device on pairing mode. 
 
